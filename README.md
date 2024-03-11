@@ -1,5 +1,5 @@
 # ios101-project3-trivia-starter
-# Project 3 - *Name of App Here*
+# Project 3 - Trivia
 
 Submitted by: Hala Eddouh
 
